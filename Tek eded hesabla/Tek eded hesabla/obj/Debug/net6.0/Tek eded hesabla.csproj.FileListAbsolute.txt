@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\bin\Debug\net6.0\Tek eded hesabla.exe
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\bin\Debug\net6.0\Tek eded hesabla.deps.json
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\bin\Debug\net6.0\Tek eded hesabla.runtimeconfig.json
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\bin\Debug\net6.0\Tek eded hesabla.dll
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\bin\Debug\net6.0\Tek eded hesabla.pdb
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\obj\Debug\net6.0\Tek eded hesabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\obj\Debug\net6.0\Tek eded hesabla.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\obj\Debug\net6.0\Tek eded hesabla.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\obj\Debug\net6.0\Tek eded hesabla.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\obj\Debug\net6.0\Tek eded hesabla.dll
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\obj\Debug\net6.0\refint\Tek eded hesabla.dll
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\obj\Debug\net6.0\Tek eded hesabla.pdb
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\obj\Debug\net6.0\Tek eded hesabla.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\source\repos\Tek eded hesabla\Tek eded hesabla\obj\Debug\net6.0\ref\Tek eded hesabla.dll

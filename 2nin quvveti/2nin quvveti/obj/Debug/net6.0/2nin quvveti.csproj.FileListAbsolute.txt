@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\obj\Debug\net6.0\2nin quvveti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\obj\Debug\net6.0\2nin quvveti.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\obj\Debug\net6.0\2nin quvveti.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\obj\Debug\net6.0\2nin quvveti.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\bin\Debug\net6.0\2nin quvveti.exe
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\bin\Debug\net6.0\2nin quvveti.deps.json
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\bin\Debug\net6.0\2nin quvveti.runtimeconfig.json
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\bin\Debug\net6.0\2nin quvveti.dll
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\bin\Debug\net6.0\2nin quvveti.pdb
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\obj\Debug\net6.0\2nin quvveti.dll
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\obj\Debug\net6.0\refint\2nin quvveti.dll
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\obj\Debug\net6.0\2nin quvveti.pdb
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\obj\Debug\net6.0\2nin quvveti.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\source\repos\2nin quvveti\2nin quvveti\obj\Debug\net6.0\ref\2nin quvveti.dll

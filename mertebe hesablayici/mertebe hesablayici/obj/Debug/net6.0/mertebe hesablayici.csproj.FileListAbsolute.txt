@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\bin\Debug\net6.0\mertebe hesablayici.exe
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\bin\Debug\net6.0\mertebe hesablayici.deps.json
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\bin\Debug\net6.0\mertebe hesablayici.runtimeconfig.json
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\bin\Debug\net6.0\mertebe hesablayici.dll
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\bin\Debug\net6.0\mertebe hesablayici.pdb
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\obj\Debug\net6.0\mertebe hesablayici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\obj\Debug\net6.0\mertebe hesablayici.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\obj\Debug\net6.0\mertebe hesablayici.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\obj\Debug\net6.0\mertebe hesablayici.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\obj\Debug\net6.0\mertebe hesablayici.dll
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\obj\Debug\net6.0\refint\mertebe hesablayici.dll
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\obj\Debug\net6.0\mertebe hesablayici.pdb
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\obj\Debug\net6.0\mertebe hesablayici.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\source\repos\mertebe hesablayici\mertebe hesablayici\obj\Debug\net6.0\ref\mertebe hesablayici.dll

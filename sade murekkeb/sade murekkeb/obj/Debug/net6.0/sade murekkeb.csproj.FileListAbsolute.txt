@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\obj\Debug\net6.0\sade murekkeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\obj\Debug\net6.0\sade murekkeb.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\obj\Debug\net6.0\sade murekkeb.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\obj\Debug\net6.0\sade murekkeb.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\bin\Debug\net6.0\sade murekkeb.exe
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\bin\Debug\net6.0\sade murekkeb.deps.json
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\bin\Debug\net6.0\sade murekkeb.runtimeconfig.json
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\bin\Debug\net6.0\sade murekkeb.dll
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\bin\Debug\net6.0\sade murekkeb.pdb
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\obj\Debug\net6.0\sade murekkeb.dll
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\obj\Debug\net6.0\refint\sade murekkeb.dll
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\obj\Debug\net6.0\sade murekkeb.pdb
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\obj\Debug\net6.0\sade murekkeb.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\source\repos\sade murekkeb\sade murekkeb\obj\Debug\net6.0\ref\sade murekkeb.dll
