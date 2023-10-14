@@ -11,7 +11,7 @@ if (num1 == 1)
     Console.WriteLine("1 ne murekkeb ne de sadedir.");
 };
 
-for (int i = num2; num2 <=9 && counter < 1; num2++)
+for (int i = num2; num2 <num1 && counter < 1; num2++)
 
 if (num1 % num2 > 0)
 {
